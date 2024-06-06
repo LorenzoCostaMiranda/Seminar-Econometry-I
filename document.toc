@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introdução}{1}{0}{1}
+\beamer@sectionintoc {2}{As 5 Etapas do Modelo Econométrico}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Formulação do Problema}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Bagagem Teórica}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Modelo Econométrico}{5}{0}{2}
+\beamer@subsectionintoc {2}{4}{Amostragem dos Dados}{6}{0}{2}
+\beamer@subsectionintoc {2}{5}{Mensuração e Análise}{7}{0}{2}
