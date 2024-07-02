@@ -19,30 +19,58 @@
 \headcommand {\beamer@subsectionentry {0}{3}{1}{5}{Formulação do Problema}}
 \headcommand {\slideentry {3}{1}{1}{5/5}{Formulação do Problema}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{6}{Bagagem Teórica}}
-\headcommand {\slideentry {3}{2}{1}{6/6}{Bagagem Teórica}{0}}
+\headcommand {\slideentry {3}{1}{2}{6/6}{Formulação do Problema}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{7}{Amostragem dos Dados}}
-\headcommand {\slideentry {3}{3}{1}{7/7}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@subsectionpages {5}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{7}{Bagagem Teórica}}
+\headcommand {\slideentry {3}{2}{1}{7/7}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {3}{3}{2}{8/8}{Amostragem dos Dados}{0}}
+\headcommand {\slideentry {3}{2}{2}{8/8}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionpages {7}{8}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{9}{Modelo Econométrico}}
-\headcommand {\slideentry {3}{4}{1}{9/9}{Modelo Econométrico}{0}}
+\headcommand {\slideentry {3}{2}{3}{9/9}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {3}{4}{2}{10/10}{Modelo Econométrico}{0}}
+\headcommand {\slideentry {3}{2}{4}{10/10}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {3}{4}{3}{11/11}{Modelo Econométrico}{0}}
+\headcommand {\slideentry {3}{2}{5}{11/11}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@subsectionpages {9}{11}}
-\headcommand {\beamer@subsectionentry {0}{3}{5}{12}{Mensuração e Análise}}
-\headcommand {\slideentry {3}{5}{1}{12/12}{Mensuração e Análise}{0}}
+\headcommand {\slideentry {3}{2}{6}{12/12}{Bagagem Teórica}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@partpages {1}{12}}
-\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@sectionpages {5}{12}}
-\headcommand {\beamer@documentpages {12}}
-\headcommand {\gdef \inserttotalframenumber {12}}
+\headcommand {\beamer@subsectionpages {7}{12}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{13}{Amostragem dos Dados}}
+\headcommand {\slideentry {3}{3}{1}{13/13}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {3}{3}{2}{14/14}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{3}{3}{15/15}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {3}{3}{4}{16/16}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {3}{3}{5}{17/17}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {3}{3}{6}{18/18}{Amostragem dos Dados}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@subsectionpages {13}{18}}
+\headcommand {\beamer@subsectionentry {0}{3}{4}{19}{Modelo Econométrico}}
+\headcommand {\slideentry {3}{4}{1}{19/19}{Modelo Econométrico}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {3}{4}{2}{20/20}{Modelo Econométrico}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {3}{4}{3}{21/21}{Modelo Econométrico}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsectionpages {19}{21}}
+\headcommand {\beamer@subsectionentry {0}{3}{5}{22}{Mensuração e Análise}}
+\headcommand {\slideentry {3}{5}{1}{22/22}{Mensuração e Análise}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {3}{5}{2}{23/23}{Mensuração e Análise}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\slideentry {3}{5}{3}{24/24}{Mensuração e Análise}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {3}{5}{4}{25/25}{Mensuração e Análise}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {3}{5}{5}{26/26}{Mensuração e Análise}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@partpages {1}{26}}
+\headcommand {\beamer@subsectionpages {22}{26}}
+\headcommand {\beamer@sectionpages {5}{26}}
+\headcommand {\beamer@documentpages {26}}
+\headcommand {\gdef \inserttotalframenumber {26}}
